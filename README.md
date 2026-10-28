@@ -19,13 +19,6 @@
   </picture>
 </p>
 
-<!-- GITASCII:TELEMETRY:START - Measures badge fetches (usually GitHub Camo refreshes), not exact human views -->
-<p align="center">
-  <a href="https://gitascii.com">
-    <img alt="GitAscii badge fetch analytics" src="https://gitascii.com/api/badge/OUSSAMA-IKEN?slug=default" width="100%">
-  </a>
-</p>
-<!-- GITASCII:TELEMETRY:END -->
 
 <p align="center">
   I work at the crossroads of <b>data</b> and <b>software</b>: cleaning and exploring datasets, building
