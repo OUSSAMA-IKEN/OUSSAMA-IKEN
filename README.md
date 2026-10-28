@@ -11,14 +11,6 @@
   <img src="./assets/section-about.svg" alt="01 About me" width="100%">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OUSSAMA-IKEN/OUSSAMA-IKEN/gitascii/profiles/default/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OUSSAMA-IKEN/OUSSAMA-IKEN/gitascii/profiles/default/light.svg">
-    <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/OUSSAMA-IKEN/OUSSAMA-IKEN/gitascii/profiles/default/dark.svg" width="100%">
-  </picture>
-</p>
-
 
 <p align="center">
   I work at the crossroads of <b>data</b> and <b>software</b>: cleaning and exploring datasets, building
